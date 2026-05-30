@@ -7,6 +7,7 @@ See all available services at https://bisquit.host
 - [Telegram](https://t.me/bisquit_host)
 
 ## Check out our open-source projects
+- 📱 [SwiftUI-App](https://github.com/Bisquit-Host/SwiftUI-App) - Billing & Pterodactyl client for Apple Platforms
 - 📚 [Wiki](https://github.com/Bisquit-Host/bisquit-wiki)
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - macOS Minecraft Launcher
 - 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - micro-service for APNS & Live Activity
