@@ -8,7 +8,6 @@ See all available services at https://bisquit.host
 
 ## Check out our open-source projects
 - 📱 [SwiftUI-App](https://github.com/Bisquit-Host/SwiftUI-App) - Billing & Pterodactyl client for Apple Platforms
-- 📚 [Wiki](https://github.com/Bisquit-Host/bisquit-wiki)
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - macOS Minecraft Launcher
 - 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - micro-service for APNS & Live Activity
 - 🔒 [Attest](https://developer.apple.com/documentation/devicecheck) micro-services written in [Swift](https://github.com/Bisquit-Host/attest-service) & [Rust](https://github.com/Bisquit-Host/rust-attester)
