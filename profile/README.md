@@ -2,9 +2,7 @@ Founded on March 25, 2022
 
 See all available services at https://bisquit.host
 
-## Social platforms
-- [Discord](https://discord.com/invite/kerMT2r9rz)
-- [Telegram](https://t.me/bisquit_host)
+Follow us on [Discord](https://discord.com/invite/kerMT2r9rz) & [Telegram](https://t.me/bisquit_host)
 
 ## Check out our open-source projects
 - 📱 [SwiftUI-App](https://github.com/Bisquit-Host/SwiftUI-App) - Billing & Pterodactyl client for Apple Platforms
