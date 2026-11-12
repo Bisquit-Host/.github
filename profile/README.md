@@ -4,6 +4,8 @@ See all available services at https://bisquit.host
 
 Follow us on [Discord](https://discord.com/invite/kerMT2r9rz) & [Telegram](https://t.me/bisquit_host)
 
+All of our plugins & mods are published in [BisquitPlugins](https://github.com/Bisquit-Plugins)
+
 ## Check out our open-source projects
 - 📱 [SwiftUI-App](https://github.com/Bisquit-Host/SwiftUI-App) - Billing & Pterodactyl client for Apple Platforms
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - macOS Minecraft Launcher
